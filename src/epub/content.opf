@@ -40,7 +40,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of Ivan Bunin’s translated short stories, ordered by date of translated publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
 			LONG_DESCRIPTION
 		]]></meta>
@@ -50,10 +50,12 @@
 		<dc:source>https://archive.org/details/oldhouseothertal00solorich</dc:source>
 		<!-- The Sweet-Scented Name, and Other Fairy Tales -->
 		<dc:source>https://archive.org/details/sweetscentedname00solo</dc:source>
-		<!-- The Tiny Man -->
-		<dc:source>https://archive.org/details/anthologymodern00selvgoog</dc:source>
+		<!-- Three Gobs of Spit / A Marriage -->
+		<dc:source>https://catalog.hathitrust.org/Record/100509932</dc:source>
 		<!-- The Imprisoned Death / The Little Ray in the Little Cell / The Affectionate Boy / They -->
 		<dc:source>https://catalog.hathitrust.org/Record/000676865</dc:source>
+		<!-- The Tiny Man -->
+		<dc:source>https://archive.org/details/anthologymodern00selvgoog</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
