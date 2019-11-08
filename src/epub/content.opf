@@ -44,7 +44,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
 			LONG_DESCRIPTION
 		]]></meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<!-- The Old House, and Other Tales -->
 		<dc:source>https://www.gutenberg.org/ebooks/48452</dc:source>
 		<dc:source>https://archive.org/details/oldhouseothertal00solorich</dc:source>
@@ -83,8 +83,8 @@
 		<meta property="file-as" refines="#translator-3">Graham, Rosa Savory</meta>
 		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
-		<dc:contributor id="translator-4">Paul Selver</dc:contributor>
-		<meta property="file-as" refines="#translator-4">Selver, Paul</meta>
+		<dc:contributor id="translator-4">P. Selver</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Selver, P.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Paul_Selver</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/n82272449</meta>
 		<meta property="display-seq" refines="#translator-4">4</meta>
