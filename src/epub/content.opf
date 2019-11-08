@@ -111,17 +111,123 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-marriage.xhtml" id="a-marriage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/adventures-of-a-cobble-stone.xhtml" id="adventures-of-a-cobble-stone.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/captive-death.xhtml" id="captive-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dotard-and-dotardess.xhtml" id="dotard-and-dotardess.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/equality.xhtml" id="equality.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/fairy-tales-in-the-garden-and-fairy-tales-at-court.xhtml" id="fairy-tales-in-the-garden-and-fairy-tales-at-court.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/frogs.xhtml" id="frogs.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/he-became-better.xhtml" id="he-became-better.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hide-and-seek.xhtml" id="hide-and-seek.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/light-and-shadows.xhtml" id="light-and-shadows.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/little-songs.xhtml" id="little-songs.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/lohengrin.xhtml" id="lohengrin.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-the-other-side-of-the-river-mairure.xhtml" id="on-the-other-side-of-the-river-mairure.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/she-who-wore-a-crown.xhtml" id="she-who-wore-a-crown.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/slayers-of-innocent-babes.xhtml" id="slayers-of-innocent-babes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/so-arose-a-misunderstanding.xhtml" id="so-arose-a-misunderstanding.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-affectionate-boy.xhtml" id="the-affectionate-boy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bit-of-candy.xhtml" id="the-bit-of-candy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bull.xhtml" id="the-bull.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-candles.xhtml" id="the-candles.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-crimson-ribbon.xhtml" id="the-crimson-ribbon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-delicate-child.xhtml" id="the-delicate-child.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dress-of-the-lily-and-of-the-cabbage.xhtml" id="the-dress-of-the-lily-and-of-the-cabbage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-future.xhtml" id="the-future.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-glimmer-of-hunger.xhtml" id="the-glimmer-of-hunger.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-golden-post.xhtml" id="the-golden-post.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-herald-of-the-beast.xhtml" id="the-herald-of-the-beast.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hoop.xhtml" id="the-hoop.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-independent-leaves.xhtml" id="the-independent-leaves.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-keys.xhtml" id="the-keys.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-kiss-of-the-unborn.xhtml" id="the-kiss-of-the-unborn.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lady-in-fetters.xhtml" id="the-lady-in-fetters.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-little-ray-in-the-little-cell.xhtml" id="the-little-ray-in-the-little-cell.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-little-stick.xhtml" id="the-little-stick.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lump-of-sugar.xhtml" id="the-lump-of-sugar.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-man-who-became-smaller.xhtml" id="the-man-who-became-smaller.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-old-house.xhtml" id="the-old-house.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-road-and-the-light.xhtml" id="the-road-and-the-light.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-search.xhtml" id="the-search.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-smile.xhtml" id="the-smile.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sweet-scented-name.xhtml" id="the-sweet-scented-name.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tiny-man.xhtml" id="the-tiny-man.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-uniter-of-souls.xhtml" id="the-uniter-of-souls.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wandering-jew.xhtml" id="the-wandering-jew.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-white-dog.xhtml" id="the-white-dog.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-white-mother.xhtml" id="the-white-mother.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/they.xhtml" id="they.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/three-gobs-of-spit.xhtml" id="three-gobs-of-spit.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/turandina.xhtml" id="turandina.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/who-art-thou.xhtml" id="who-art-thou.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/wings.xhtml" id="wings.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="foreword.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="the-old-house.xhtml"/>
+		<itemref idref="the-uniter-of-souls.xhtml"/>
+		<itemref idref="the-white-dog.xhtml"/>
+		<itemref idref="light-and-shadows.xhtml"/>
+		<itemref idref="the-glimmer-of-hunger.xhtml"/>
+		<itemref idref="hide-and-seek.xhtml"/>
+		<itemref idref="the-smile.xhtml"/>
+		<itemref idref="the-hoop.xhtml"/>
+		<itemref idref="the-search.xhtml"/>
+		<itemref idref="the-white-mother.xhtml"/>
+		<itemref idref="wings.xhtml"/>
+		<itemref idref="the-sweet-scented-name.xhtml"/>
+		<itemref idref="turandina.xhtml"/>
+		<itemref idref="lohengrin.xhtml"/>
+		<itemref idref="who-art-thou.xhtml"/>
+		<itemref idref="the-dress-of-the-lily-and-of-the-cabbage.xhtml"/>
+		<itemref idref="she-who-wore-a-crown.xhtml"/>
+		<itemref idref="the-delicate-child.xhtml"/>
+		<itemref idref="the-bit-of-candy.xhtml"/>
+		<itemref idref="the-lump-of-sugar.xhtml"/>
+		<itemref idref="the-bull.xhtml"/>
+		<itemref idref="the-golden-post.xhtml"/>
+		<itemref idref="so-arose-a-misunderstanding.xhtml"/>
+		<itemref idref="frogs.xhtml"/>
+		<itemref idref="the-lady-in-fetters.xhtml"/>
+		<itemref idref="the-kiss-of-the-unborn.xhtml"/>
+		<itemref idref="the-little-stick.xhtml"/>
+		<itemref idref="equality.xhtml"/>
+		<itemref idref="adventures-of-a-cobble-stone.xhtml"/>
+		<itemref idref="the-future.xhtml"/>
+		<itemref idref="the-road-and-the-light.xhtml"/>
+		<itemref idref="the-keys.xhtml"/>
+		<itemref idref="the-independent-leaves.xhtml"/>
+		<itemref idref="the-crimson-ribbon.xhtml"/>
+		<itemref idref="slayers-of-innocent-babes.xhtml"/>
+		<itemref idref="the-herald-of-the-beast.xhtml"/>
+		<itemref idref="on-the-other-side-of-the-river-mairure.xhtml"/>
+		<itemref idref="the-candles.xhtml"/>
+		<itemref idref="he-became-better.xhtml"/>
+		<itemref idref="three-gobs-of-spit.xhtml"/>
+		<itemref idref="fairy-tales-in-the-garden-and-fairy-tales-at-court.xhtml"/>
+		<itemref idref="captive-death.xhtml"/>
+		<itemref idref="a-marriage.xhtml"/>
+		<itemref idref="the-wandering-jew.xhtml"/>
+		<itemref idref="the-man-who-became-smaller.xhtml"/>
+		<itemref idref="dotard-and-dotardess.xhtml"/>
+		<itemref idref="little-songs.xhtml"/>
+		<itemref idref="the-little-ray-in-the-little-cell.xhtml"/>
+		<itemref idref="the-affectionate-boy.xhtml"/>
+		<itemref idref="they.xhtml"/>
+		<itemref idref="the-tiny-man.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
