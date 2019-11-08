@@ -18,3 +18,13 @@
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+#lohengrin-9 blockquote:first-of-type{
+	font-variant: small-caps;
+	text-align: center;
+}
+
+#lohengrin-9 blockquote:first-of-type p + p{
+	font-variant: all-small-caps;
+	margin-top: 0.5em;
+}
