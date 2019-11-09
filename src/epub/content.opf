@@ -40,7 +40,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of Ivan Bunin’s translated short stories, ordered by date of translated publication.</dc:description>
+		<dc:description id="description">A collection of Fyodor Sologub’s translated short stories, ordered by date of translated publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
 			LONG_DESCRIPTION
 		]]></meta>
@@ -56,7 +56,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/000676865</dc:source>
 		<!-- The Tiny Man -->
 		<dc:source>https://archive.org/details/anthologymodern00selvgoog</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The exact publication dates in the colophon are hazy, but the “Complete Works” were published in Russian in 1911 which included five volumes of short stories. It’s reasonable to assume that the translations here were taken from those short stories. Story order is based on publication date of the translation as the original publication date is very hard to ascertain. Where the stories were published in a compilation they’re added in compilation order.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-sologub_short-fiction_john-cournos_stephen-graham_rosa-savory-graham_p-selver</meta>
