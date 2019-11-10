@@ -44,7 +44,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
 			LONG_DESCRIPTION
 		]]></meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<!-- The Old House, and Other Tales -->
 		<dc:source>https://www.gutenberg.org/ebooks/48452</dc:source>
 		<dc:source>https://archive.org/details/oldhouseothertal00solorich</dc:source>
