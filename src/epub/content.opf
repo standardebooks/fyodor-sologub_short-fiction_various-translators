@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/john-cournos_stephen-graham_rosa-savory-graham_p-selver</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-11-17T23:49:50Z</dc:date>
+		<meta property="dcterms:modified">2019-11-17T23:49:50Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,7 +42,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Fyodor Sologub was a Russian poet, novelist and playwright, working in the late nineteenth and early twentieth centuries. His work generally has a downcast outlook with recurring mystical elements, and often uses anthropomorphic objects or fantastical situations to comment on human behaviour. As well as novels (including the critically acclaimed &lt;a href="https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos_richard-aldington"&gt;&lt;i&gt;The Little Demon&lt;/i&gt;&lt;/a&gt;), Sologub wrote over five hundred short stories, ranging in length from half-page fables to nearly novella-length tales.&lt;/p&gt;
+			&lt;p&gt;Fyodor Sologub was a Russian poet, novelist and playwright, working in the late nineteenth and early twentieth centuries. His work generally has a downcast outlook with recurring mystical elements, and often uses anthropomorphic objects or fantastical situations to comment on human behaviour. As well as novels (including the critically acclaimed &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos_richard-aldington"&gt;The Little Demon&lt;/a&gt;&lt;/i&gt;), Sologub wrote over five hundred short stories, ranging in length from half-page fables to nearly novella-length tales.&lt;/p&gt;
 			&lt;p&gt;While most of his short stories were not contemporaneously translated, both John Cournos and Stephen Graham produced English compilations and contributed individual stories to publications such as &lt;i&gt;The Russian Review&lt;/i&gt; and &lt;i&gt;The Egoist&lt;/i&gt;. This collection comprises the best individual English translations in the public domain of Sologub’s short stories, presented in chronological order of the publication of their translation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -58,8 +58,8 @@
 		<!-- The Tiny Man -->
 		<dc:source>https://archive.org/details/anthologymodern00selvgoog</dc:source>
 		<meta property="se:production-notes">The exact publication dates in the colophon are hazy, but the “Complete Works” were published in Russian in 1911 which included five volumes of short stories. It’s reasonable to assume that the translations here were taken from those short stories. Story order is based on publication date of the translation as the original publication date is very hard to ascertain. Where the stories were published in a compilation they’re added in compilation order.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">98938</meta>
+		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-sologub_short-fiction_john-cournos_stephen-graham_rosa-savory-graham_p-selver</meta>
 		<dc:creator id="author">Fyodor Sologub</dc:creator>
 		<meta property="file-as" refines="#author">Sologub, Fyodor</meta>
@@ -107,6 +107,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
