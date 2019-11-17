@@ -3,9 +3,6 @@
 
 footer{
 	margin-top: 1em;
-}
-
-[epub|type~="foreword"] footer{
 	text-align: right;
 }
 
@@ -27,12 +24,8 @@ footer{
 	display: none;
 }
 
-#lohengrin-9 blockquote:first-of-type{
+#lohengrin-9 blockquote:first-of-type p{
 	font-variant: small-caps;
 	text-align: center;
-}
-
-#lohengrin-9 blockquote:first-of-type p + p{
-	font-variant: all-small-caps;
-	margin-top: 0.25em;
+	text-indent: 0;
 }
