@@ -51,7 +51,7 @@
 		<dc:source>https://archive.org/details/oldhouseothertal00solorich</dc:source>
 		<!-- The Sweet-Scented Name, and Other Fairy Tales -->
 		<dc:source>https://archive.org/details/sweetscentedname00solo</dc:source>
-		<!-- He Became Better / Three Gobs of Spit / Fairy Tales in the Garden / A Marriage / Captive Death / The Wandering Jew / The Man Who Became Smaller / Dotard and Dotardess / Little Songs -->
+		<!-- He Became Better / Three Gobs of Spit / Fairy Tales in the Garden / A Marriage / Captive Death / The Man Who Became Smaller / Dotard and Dotardess / Little Songs -->
 		<dc:source>https://catalog.hathitrust.org/Record/100509932</dc:source>
 		<!-- The Little Ray in the Little Cell / The Affectionate Boy / They -->
 		<dc:source>https://catalog.hathitrust.org/Record/000676865</dc:source>
@@ -167,7 +167,6 @@
 		<item href="text/the-sweet-scented-name.xhtml" id="the-sweet-scented-name.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-tiny-man.xhtml" id="the-tiny-man.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-uniter-of-souls.xhtml" id="the-uniter-of-souls.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-wandering-jew.xhtml" id="the-wandering-jew.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-dog.xhtml" id="the-white-dog.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-white-mother.xhtml" id="the-white-mother.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/they.xhtml" id="they.xhtml" media-type="application/xhtml+xml"/>
@@ -226,7 +225,6 @@
 		<itemref idref="fairy-tales-in-the-garden-and-fairy-tales-at-court.xhtml"/>
 		<itemref idref="a-marriage.xhtml"/>
 		<itemref idref="captive-death.xhtml"/>
-		<itemref idref="the-wandering-jew.xhtml"/>
 		<itemref idref="the-man-who-became-smaller.xhtml"/>
 		<itemref idref="dotard-and-dotardess.xhtml"/>
 		<itemref idref="little-songs.xhtml"/>
