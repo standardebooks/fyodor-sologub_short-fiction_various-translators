@@ -57,6 +57,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/000676865</dc:source>
 		<!-- The Tiny Man -->
 		<dc:source>https://archive.org/details/anthologymodern00selvgoog</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000529711</dc:source>
 		<meta property="se:production-notes">The exact publication dates in the colophon are hazy, but the “Complete Works” were published in Russian in 1911 which included five volumes of short stories. It’s reasonable to assume that the translations here were taken from those short stories. Story order is based on publication date of the translation as the original publication date is very hard to ascertain. Where the stories were published in a compilation they’re added in compilation order.</meta>
 		<meta property="se:word-count">98258</meta>
 		<meta property="se:reading-ease.flesch">73.68</meta>
