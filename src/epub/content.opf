@@ -131,7 +131,7 @@
 		<item href="text/fairy-tales-in-the-garden-and-fairy-tales-at-court.xhtml" id="fairy-tales-in-the-garden-and-fairy-tales-at-court.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/frogs.xhtml" id="frogs.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/he-became-better.xhtml" id="he-became-better.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hide-and-seek.xhtml" id="hide-and-seek.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -183,7 +183,7 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="foreword.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="the-old-house.xhtml"/>
 		<itemref idref="the-uniter-of-souls.xhtml"/>
 		<itemref idref="the-white-dog.xhtml"/>
