@@ -39,6 +39,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fyodor-sologub"&gt;Fyodor Sologub&lt;/a&gt; was a Russian poet, novelist and playwright, working in the late nineteenth and early twentieth centuries. His work generally has a downcast outlook with recurring mystical elements, and often uses anthropomorphic objects or fantastical situations to comment on human behaviour. As well as novels (including the critically acclaimed &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos_richard-aldington"&gt;The Little Demon&lt;/a&gt;&lt;/i&gt;), Sologub wrote over five hundred short stories, ranging in length from half-page fables to nearly novella-length tales.&lt;/p&gt;
