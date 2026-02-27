@@ -73,24 +73,20 @@
 		<meta property="file-as" refines="#translator-1">Cournos, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/John_Cournos</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n82067305</meta>
-		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Stephen Graham</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Graham, Stephen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Stephen_Graham_(author)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n50034885</meta>
-		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">Rosa Savory Graham</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Graham, Rosa Savory</meta>
-		<meta property="display-seq" refines="#translator-3">3</meta>
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">P. Selver</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Selver, P.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Paul_Selver</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/n82272449</meta>
-		<meta property="display-seq" refines="#translator-4">4</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Edvard Munch</dc:contributor>
 		<meta property="file-as" refines="#artist">Munch, Edvard</meta>
