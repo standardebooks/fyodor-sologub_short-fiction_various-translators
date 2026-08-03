@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/fyodor-sologub/short-fiction/various-translators</dc:identifier>
 		<dc:date>2019-11-17T23:49:50Z</dc:date>
@@ -42,11 +42,11 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of Fyodor Sologub’s translated short stories, ordered by date of the publication of their translation.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/fyodor-sologub"&gt;Fyodor Sologub&lt;/a&gt; was a Russian poet, novelist and playwright, working in the late nineteenth and early twentieth centuries. His work generally has a downcast outlook with recurring mystical elements, and often uses anthropomorphic objects or fantastical situations to comment on human behaviour. As well as novels (including the critically acclaimed &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos_richard-aldington"&gt;The Little Demon&lt;/a&gt;&lt;/i&gt;), Sologub wrote over five hundred short stories, ranging in length from half-page fables to nearly novella-length tales.&lt;/p&gt;
 			&lt;p&gt;While most of his short stories were not contemporaneously translated, both John Cournos and Stephen Graham produced English compilations and contributed individual stories to publications such as &lt;i&gt;The Russian Review&lt;/i&gt; and &lt;i&gt;The Egoist&lt;/i&gt;. This collection comprises the best individual English translations in the public domain of Sologub’s short stories, presented in chronological order of the publication of their translation.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- The Old House, and Other Tales -->
 		<dc:source>https://www.gutenberg.org/ebooks/48452</dc:source>
